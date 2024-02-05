@@ -21,11 +21,9 @@ return {
   { import = "custom.custom-plugins.extras-lang.c" },
   { import = "custom.custom-plugins.extras-lang.go" },
   { import = "custom.custom-plugins.extras-lang.lua" },
-  { import = "custom.custom-plugins.extras-lang.nix" },
   { import = "custom.custom-plugins.extras-lang.python" },
   { import = "custom.custom-plugins.extras-lang.web" },
   { import = "custom.custom-plugins.extras-lang.shell" },
-  { import = "custom.custom-plugins.extras-lang.zig" },
   { import = "lazyvim.plugins.extras.lang.json" },
   { import = "lazyvim.plugins.extras.lang.yaml" },
 
